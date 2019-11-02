@@ -1,0 +1,18 @@
+
+### --> LOG start time --2019-10-24 11:51:49.708862
+### --> LOG start time --2019-10-24 11:52:22.704321
+### --> LOG start time --2019-10-24 11:55:30.710026
+### --> LOG start time --2019-10-24 11:59:07.664578
+### --> LOG start time --2019-10-24 12:10:11.552600
+### --> LOG start time --2019-10-24 12:10:20.093302
+### --> LOG start time --2019-10-24 12:12:03.100228
+### --> LOG start time --2019-10-24 12:33:36.046340
+### --> LOG start time --2019-10-24 12:34:37.305193
+### --> LOG start time --2019-10-24 12:35:00.001973
+### --> LOG start time --2019-10-24 12:42:46.125077
+Welcome to Ubuntu 16.04.4 LTS (GNU/Linux 4.4.0-1095-aws x86_64) * Documentation:  https://help.ubuntu.com * Management:     https://landscape.canonical.com * Support:        https://ubuntu.com/advantage  Get cloud support with Ubuntu Advantage Cloud Guest:    http://www.ubuntu.com/business/services/cloud161 packages can be updated.1 update is a security update.New release '18.04.3 LTS' available.Run 'do-release-upgrade' to upgrade to it.*** System restart required ***Last login: Thu Oct 24 19:42:28 2019 from 206.29.176.50student@ip-172-31-41-66:~$ 
+
+### --> LOG start time --2019-10-24 12:43:54.801135
+Welcome to Ubuntu 16.04.4 LTS (GNU/Linux 4.4.0-1095-aws x86_64) * Documentation:  https://help.ubuntu.com * Management:     https://landscape.canonical.com * Support:        https://ubuntu.com/advantage  Get cloud support with Ubuntu Advantage Cloud Guest:    http://www.ubuntu.com/business/services/cloud161 packages can be updated.1 update is a security update.New release '18.04.3 LTS' available.Run 'do-release-upgrade' to upgrade to it.*** System restart required ***Last login: Thu Oct 24 19:43:51 2019 from 12.146.124.2student@ip-172-31-41-66:~$ 
+
+dateThu Oct 24 19:44:01 UTC 2019student@ip-172-31-41-66:~$ 

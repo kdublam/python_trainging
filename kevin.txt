@@ -1,0 +1,3 @@
+ls
+date
+cat GettysburgAddress.txt
